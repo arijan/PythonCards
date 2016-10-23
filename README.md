@@ -5,4 +5,4 @@ It's a simple demo on how to learn to program Python with emphasis on the follow
 * object interface design
 * object hirearchy design
 * usability
-* optimisation
+* optimization
